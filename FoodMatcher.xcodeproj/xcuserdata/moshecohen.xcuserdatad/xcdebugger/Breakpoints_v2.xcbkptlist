@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodMatcher/ViewController.swift"
+            timestampString = "489054898.200735"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodMatcher.ViewController.__deallocating_deinit"
+                  moduleName = "FoodMatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moshecohen/Desktop/FoodMatcher/FoodMatcher/ViewController.swift"
+                  timestampString = "488982286.447976"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodMatcher.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; FoodMatcher.ViewController"
+                  moduleName = "FoodMatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moshecohen/Desktop/FoodMatcher/FoodMatcher/ViewController.swift"
+                  timestampString = "488982286.449143"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodMatcher.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodMatcher.ViewController&gt;"
+                  moduleName = "FoodMatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moshecohen/Desktop/FoodMatcher/FoodMatcher/ViewController.swift"
+                  timestampString = "488982286.449273"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodMatcher/ViewController.swift"
+            timestampString = "489054898.200735"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodMatcher.ViewController.__deallocating_deinit"
+                  moduleName = "FoodMatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moshecohen/Desktop/FoodMatcher/FoodMatcher/ViewController.swift"
+                  timestampString = "488982286.453555"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodMatcher.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; FoodMatcher.ViewController"
+                  moduleName = "FoodMatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moshecohen/Desktop/FoodMatcher/FoodMatcher/ViewController.swift"
+                  timestampString = "488982286.453684"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodMatcher.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodMatcher.ViewController&gt;"
+                  moduleName = "FoodMatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moshecohen/Desktop/FoodMatcher/FoodMatcher/ViewController.swift"
+                  timestampString = "488982286.453791"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

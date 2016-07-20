@@ -1,0 +1,25 @@
+PODS:
+  - Bolts/Tasks (1.7.0)
+  - GoogleMaps (1.13.2)
+  - Koloda (3.1.1):
+    - pop (~> 1.0)
+  - Parse (1.13.0):
+    - Bolts/Tasks (~> 1.6)
+  - pop (1.0.9)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - Koloda (~> 3.1.1)
+  - Parse
+  - pop (~> 1.0)
+
+SPEC CHECKSUMS:
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  GoogleMaps: b20a103ff307f58392e603cf142e59d7e30374c1
+  Koloda: 782e61549cafec9fd69fc70c4a8b54bce997894d
+  Parse: f51c24d2feb412e4b2d6cc73d37cb24e8d0089bc
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+
+PODFILE CHECKSUM: 7f4b8a2307d4ecd5718acae1587fff1b6aa3e4c4
+
+COCOAPODS: 1.0.1
